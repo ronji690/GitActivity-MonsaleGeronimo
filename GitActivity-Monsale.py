@@ -1,3 +1,6 @@
 print('Geronimo Monsale')
 print('Lupac,Boac,Marinduque')
 print('March 12, 1999')
+print('MAinduque State Collage')
+print('Information Technology')
+print('2C')
